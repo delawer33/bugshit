@@ -1,0 +1,17 @@
+VULNERABILITIES.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+
+# Node
+node_modules/
+frontend/dist/
+
+# Local / runtime
+backend/uploads/
+logs/
+.env
