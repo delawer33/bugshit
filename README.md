@@ -27,8 +27,8 @@ Open http://localhost:5173
 
 ## Default accounts
 
-| User  | Password     |
-|-------|--------------|
-| admin | admin        |
-| alice | password123  |
-| bob   | password123  |
+| User  | Password    |
+| ----- | ----------- |
+| admin | admin       |
+| alice | password123 |
+| bob   | password123 |
