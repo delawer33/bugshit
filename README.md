@@ -2,8 +2,6 @@
 
 Project management API and web client for teams tracking tasks, projects, and internal credits.
 
-Smallchange
-
 ## Stack
 
 - **Backend:** Python 3.12, FastAPI, SQLAlchemy, SQLite
