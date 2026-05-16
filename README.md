@@ -2,6 +2,8 @@
 
 Project management API and web client for teams tracking tasks, projects, and internal credits.
 
+Smallchange
+
 ## Stack
 
 - **Backend:** Python 3.12, FastAPI, SQLAlchemy, SQLite
@@ -27,8 +29,8 @@ Open http://localhost:5173
 
 ## Default accounts
 
-| User  | Password     |
-|-------|--------------|
-| admin | admin        |
-| alice | password123  |
-| bob   | password123  |
+| User  | Password    |
+| ----- | ----------- |
+| admin | admin       |
+| alice | password123 |
+| bob   | password123 |
