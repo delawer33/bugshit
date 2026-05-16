@@ -1,0 +1,8 @@
+VULNERABILITIES.md
+../VULNERABILITIES.md
+**/__pycache__
+**/*.pyc
+.venv
+*.db
+uploads
+logs
